@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.walmart.lab.TicketService.TestAvailabitySeatHoldAndBook
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 130.148 sec

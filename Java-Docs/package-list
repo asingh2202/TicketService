@@ -1,0 +1,6 @@
+com.walmart.lab.ticketService
+com.walmart.lab.ticketService.booking
+com.walmart.lab.ticketService.constants
+com.walmart.lab.ticketService.dao
+com.walmart.lab.ticketService.dao.impl
+com.walmart.lab.ticketService.exception

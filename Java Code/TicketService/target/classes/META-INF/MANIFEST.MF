@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: ASINGH27
+Class-Path: lib/hsqldb-2.3.1.jar lib/spring-core-3.2.3.RELEASE.jar lib
+ /commons-logging-1.1.1.jar lib/spring-context-3.2.3.RELEASE.jar lib/s
+ pring-aop-3.2.3.RELEASE.jar lib/aopalliance-1.0.jar lib/spring-beans-
+ 3.2.3.RELEASE.jar lib/spring-expression-3.2.3.RELEASE.jar lib/spring-
+ jdbc-3.2.3.RELEASE.jar lib/spring-tx-3.2.3.RELEASE.jar
+Build-Jdk: 1.8.0_92
+Created-By: Maven Integration for Eclipse
+Main-Class: com.walmart.lab.ticketService.Service
+
